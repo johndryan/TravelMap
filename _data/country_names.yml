@@ -27,7 +27,7 @@
 -
   index: 'map_6'
   country_name: 'ARGENTINA'
-  visited: false
+  visited: true
 
 -
   index: 'map_7'
@@ -37,7 +37,7 @@
 -
   index: 'map_8'
   country_name: 'AUSTRALIA'
-  visited: false
+  visited: true
 
 -
   index: 'map_9'
@@ -52,7 +52,7 @@
 -
   index: 'map_11'
   country_name: 'BAHAMAS'
-  visited: false
+  visited: true
 
 -
   index: 'map_12'
@@ -72,7 +72,7 @@
 -
   index: 'map_15'
   country_name: 'BELGIUM'
-  visited: false
+  visited: true
 
 -
   index: 'map_16'
@@ -92,7 +92,7 @@
 -
   index: 'map_19'
   country_name: 'BOLIVIA'
-  visited: false
+  visited: true
 
 -
   index: 'map_20'
@@ -107,7 +107,7 @@
 -
   index: 'map_22'
   country_name: 'BRAZIL'
-  visited: false
+  visited: true
 
 -
   index: 'map_23'
@@ -142,7 +142,7 @@
 -
   index: 'map_29'
   country_name: 'CANADA'
-  visited: false
+  visited: true
 
 -
   index: 'map_30'
@@ -157,7 +157,7 @@
 -
   index: 'map_32'
   country_name: 'CHILE'
-  visited: false
+  visited: true
 
 -
   index: 'map_33'
@@ -232,7 +232,7 @@
 -
   index: 'map_47'
   country_name: 'ECUADOR'
-  visited: false
+  visited: true
 
 -
   index: 'map_48'
@@ -357,7 +357,7 @@
 -
   index: 'map_72'
   country_name: 'INDIA'
-  visited: false
+  visited: true
 
 -
   index: 'map_73'
@@ -377,7 +377,7 @@
 -
   index: 'map_76'
   country_name: 'IRELAND'
-  visited: false
+  visited: true
 
 -
   index: 'map_77'
@@ -562,17 +562,17 @@
 -
   index: 'map_113'
   country_name: 'NEPAL'
-  visited: false
+  visited: true
 
 -
   index: 'map_114'
   country_name: 'NETHERLANDS'
-  visited: false
+  visited: true
 
 -
   index: 'map_115'
   country_name: 'NEW ZEALAND'
-  visited: false
+  visited: true
 
 -
   index: 'map_116'
@@ -632,7 +632,7 @@
 -
   index: 'map_127'
   country_name: 'PERU'
-  visited: false
+  visited: true
 
 -
   index: 'map_128'
@@ -642,7 +642,7 @@
 -
   index: 'map_129'
   country_name: 'POLAND'
-  visited: false
+  visited: true
 
 -
   index: 'map_130'
@@ -672,7 +672,7 @@
 -
   index: 'map_135'
   country_name: 'RWANDA'
-  visited: false
+  visited: true
 
 -
   index: 'map_136'
@@ -727,7 +727,7 @@
 -
   index: 'map_146'
   country_name: 'SOUTH AFRICA'
-  visited: false
+  visited: true
 
 -
   index: 'map_147'
@@ -742,7 +742,7 @@
 -
   index: 'map_149'
   country_name: 'SPAIN'
-  visited: false
+  visited: true
 
 -
   index: 'map_150'
@@ -767,7 +767,7 @@
 -
   index: 'map_154'
   country_name: 'SWEDEN'
-  visited: false
+  visited: true
 
 -
   index: 'map_155'
@@ -872,7 +872,7 @@
 -
   index: 'map_175'
   country_name: 'VENEZUELA'
-  visited: false
+  visited: true
 
 -
   index: 'map_176'
@@ -892,12 +892,12 @@
 -
   index: 'map_179'
   country_name: 'ZAMBIA'
-  visited: false
+  visited: true
 
 -
   index: 'map_180'
   country_name: 'ZIMBABWE'
-  visited: false
+  visited: true
 
 
 
