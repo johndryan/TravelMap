@@ -162,7 +162,7 @@
 -
   index: 'map_33'
   country_name: 'CHINA'
-  visited: True
+  visited: false
 
 -
   index: 'map_34'
@@ -702,7 +702,7 @@
 -
   index: 'map_141'
   country_name: 'SINGAPORE'
-  visited: false
+  visited: true
 
 -
   index: 'map_142'
